@@ -1,6 +1,5 @@
 # Binary Classification for Cardiovascular Risk Prediction
 
-![Flowchart](https://github.com/Harsh-Singh24/CHD-Binary-classification/blob/main/Flow%20Chart.png)
 
 ## 🩺 Project Description
 This project leverages a dataset from an ongoing cardiovascular study in Framingham, Massachusetts. The goal is to predict whether a patient has a 10-year risk of developing coronary heart disease (CHD).
@@ -31,7 +30,7 @@ The dataset consists of 4,000+ records and 15 features, representing a combinati
 
 6. **Model Evaluation**
    - Evaluation using Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
-
+![Flowchart](https://github.com/Harsh-Singh24/CHD-Binary-classification/blob/main/Flow%20Chart.png)
 ---
 
 ## 🤖 Machine Learning Models Used
